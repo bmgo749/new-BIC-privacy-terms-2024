@@ -1,4 +1,4 @@
-# Privacy Policy for The New Legion
+# Privacy Policy for The BIC
 ## Data Collection
 
 **We collect the following data:**
