@@ -1,4 +1,4 @@
-# Privacy Policy for The BIC
+# Privacy Policy for The VK
 ## Data Collection
 
 **We collect the following data:**
